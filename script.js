@@ -12,7 +12,7 @@ function addItems(count = 2) {
 }
 
 // Initial items
-addItems(10);
+addItems(16);
 
 // Infinite scroll handler
 window.addEventListener('scroll', () => {
