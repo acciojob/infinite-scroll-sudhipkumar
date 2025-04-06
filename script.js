@@ -1,5 +1,5 @@
 //your code here!
-const list = document.getElementById('infinite-list');
+const list = document.getElementById('infi-list');
 let itemCount = 0;
 
 // Function to add list items
